@@ -8,4 +8,4 @@ React app that shows real-time weather data for any city using OpenWeatherMap AP
 - Built with React and OpenWeatherMap API
 
 ## Live Demo
-Coming soon
+Coming soon  
